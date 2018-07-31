@@ -99,7 +99,6 @@ public class Main {
             }
         }
 
-
         // print final results to console
         System.out.printf("Results for %s\n\n", animal);
         System.out.printf("\n # Paths \t Success Rate GW \t Success Rate SF \t Success Rate GER \n");
